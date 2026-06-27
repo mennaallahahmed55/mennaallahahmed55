@@ -63,6 +63,5 @@ A web application for managing gym members, subscriptions, and trainers.
 ## 📫 Contact Me
 
 - GitHub: [mennaallahahmed55](https://github.com/mennaallahahmed55)
-- LinkedIn: Add your LinkedIn link here
-- Portfolio: Add your portfolio link here
+- LinkedIn: www.linkedin.com/in/mennaallahahmed
 - Email: Mennaallahahmed122@gmail.com
