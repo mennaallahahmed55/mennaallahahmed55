@@ -1,6 +1,6 @@
 # Hi, I'm Menna Ahmed 👋
 
-**AEC Software Developer | BIM Automation Developer | BIM Structural Engineer**
+**AEC Software Developer | BIM Developer | BIM Structural Engineer**
 
 I am a BIM Structural Engineer with experience in structural modeling, BIM coordination, and construction documentation, currently expanding my expertise into software development for the AEC industry.
 
