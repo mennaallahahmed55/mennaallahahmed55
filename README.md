@@ -2,66 +2,126 @@
 
 **AEC Software Developer | BIM Automation Developer | BIM Structural Engineer**
 
-I'm an AEC Software Developer focused on building tools that automate BIM and structural engineering workflows using **C#/.NET, WPF, MVVM, Revit API, Dynamo, xBIM, SQL Server, and SQLite**.
+I am a BIM Structural Engineer with experience in structural modeling, BIM coordination, and construction documentation, currently expanding my expertise into software development for the AEC industry.
 
-I combine practical BIM/structural experience with software development to create automation tools for model data extraction, coordination, construction planning, and engineering decision support.
-
----
-
-## 🚀 What I Do
-
-- BIM automation and workflow optimization
-- Revit API and Dynamo scripting
-- C#/.NET desktop applications for AEC workflows
-- WPF/MVVM engineering tools
-- IFC data extraction using xBIM
-- BIM coordination, clash detection, and LOD 400/500 modeling
-- Structural modeling, precast detailing, and shop drawings
+My focus is building BIM automation tools and engineering applications that solve real-world construction problems using modern software technologies.
 
 ---
 
-## 🛠 Tech Stack
+## Current Focus
 
-**Programming:** C#, Python, ASP.NET MVC, LINQ  
-**Desktop Development:** WPF, MVVM, Clean Architecture  
-**AEC/BIM:** Revit API, Dynamo, Navisworks, xBIM, IFC  
-**Databases:** SQL Server, SQLite, JSON  
-**Engineering Tools:** Revit, ETABS, SAFE, AutoCAD, Sofistik  
-**Other:** Git, GitHub, BIM 360 / Autodesk Construction Cloud
-
----
-
-## 📌 Featured Projects
-
-### 🏗 Mobile Crane Optimizer for Precast Buildings
-A BIM-based desktop application for optimizing mobile crane placement and lifting strategies for precast concrete construction.
-
-**Tech:** C# · WPF · MVVM · xBIM · Genetic Algorithms · SQLite
-
-Key features:
-- Extracts precast element geometry, weight, center of gravity, and coordinates from IFC models
-- Optimizes crane position and lifting coverage
-- Visualizes crane working zones and optimization results
-- Stores analysis results using SQLite
+* Revit API Development
+* Dynamo Automation
+* WPF Desktop Applications
+* .NET & C#
+* MVVM Architecture
+* BIM & IFC Processing
+* xBIM Toolkit
+* SQL Server & SQLite
+* Engineering Automation
+* AI Applications in Construction
 
 ---
 
-### 📦 Material Construction Management System
-A WPF desktop application for managing construction material records and inventory workflows.
+## Featured Project
 
-**Tech:** C# · WPF · MVVM · JSON
+### Mobile Crane Optimizer for Precast Buildings
+
+A desktop application that helps engineers determine optimal mobile crane positions for lifting precast elements.
+
+**Key Features:**
+
+* IFC Model Analysis
+* Crane Placement Optimization
+* Genetic Algorithm Engine
+* Element Data Extraction
+* 3D Visualization
+* Construction Site Constraints Management
+
+**Tech Stack:** C# • .NET • WPF • MVVM • SQLite • xBIM • Genetic Algorithms
 
 ---
 
-### 🏋️ Gym Management System
+## Other Projects
+
+### Construction Material Management System
+
+A desktop application for managing construction material records and inventory workflows.
+
+**Tech Stack:** C# • WPF • MVVM • JSON
+
+### Gym Management System
+
 A web application for managing gym members, subscriptions, and trainers.
 
-**Tech:** ASP.NET MVC · C# · SQL Server · N-Tier Architecture
+**Tech Stack:** ASP.NET MVC • C# • SQL Server • N-Tier Architecture
 
 ---
 
-## 📫 Contact Me
+## Experience
 
-- GitHub: [mennaallahahmed55](https://github.com/mennaallahahmed55)
-- LinkedIn: www.linkedin.com/in/mennaallahahmed
-- Email: Mennaallahahmed122@gmail.com
+### BIM Structural Engineer
+
+* Structural Modeling
+* BIM Coordination
+* Clash Detection
+* LOD 400 / LOD 500 Modeling
+* Precast Detailing
+* Shop Drawings
+* Construction Documentation
+
+### Software Development
+
+* Desktop Application Development
+* BIM Software Solutions
+* Revit API Tools
+* Dynamo Automation Scripts
+* Engineering Automation
+* Database-Driven Applications
+
+---
+
+## Technologies
+
+### Programming
+
+C# | Python | SQL | ASP.NET MVC
+
+### Desktop Development
+
+WPF | MVVM | XAML
+
+### BIM & Engineering
+
+Revit API | Dynamo | IFC | xBIM | Navisworks | Revit
+
+### Database
+
+SQL Server | SQLite | JSON | Entity Framework Core
+
+### Engineering Tools
+
+ETABS | SAFE | AutoCAD | Sofistik
+
+### Tools
+
+Git | GitHub | Visual Studio | BIM 360 | Autodesk Construction Cloud
+
+---
+
+## Currently Learning
+
+* Advanced WPF
+* Clean Architecture
+* Design Patterns
+* Advanced Revit API
+* AI Applications in Construction
+* BIM Data Management
+
+---
+
+## Connect With Me
+
+**LinkedIn:** [www.linkedin.com/in/mennaallahahmed](http://www.linkedin.com/in/mennaallahahmed)
+**Email:** [Mennaallahahmed122@gmail.com](mailto:Mennaallahahmed122@gmail.com)
+
