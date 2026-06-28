@@ -86,7 +86,7 @@ A web application for managing gym members, subscriptions, and trainers.
 
 ### Programming
 
-C# | Python | SQL | ASP.NET MVC
+C# | .NET | SQL
 
 ### Desktop Development
 
