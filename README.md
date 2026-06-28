@@ -2,9 +2,10 @@
 
 **AEC Software Developer | BIM Developer | BIM Structural Engineer**
 
-I am a BIM Structural Engineer with experience in structural modeling, BIM coordination, and construction documentation, currently expanding my expertise into software development for the AEC industry.
+I am a BIM Structural Engineer with experience in precast detailing, shop drawings, and structural coordination, currently expanding my expertise into AEC software development.
 
-My focus is building BIM automation tools and engineering applications that solve real-world construction problems using modern software technologies.
+My focus is building practical engineering applications that help automate BIM, structural, and construction workflows using modern software technologies.
+
 
 ---
 
